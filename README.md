@@ -1,25 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to DogParty.
 
-Things you may want to cover:
+Are you tired of not knowing when your best friend can play with other wonderful doggos? Fear no more! Use DogParty for easy, breezy, beautiful dog party planning.
 
-* Ruby version
+It's simple.
 
-* System dependencies
+Sign Up using your email and then fill out the simple form. Tell us about your favorite park and all about your furry friend(s)!
 
-* Configuration
+From there, you will be able to join existing doggo parties but if none of those seem lit enough for you, you can create your own.
 
-* Database creation
+All you need to do is push the CREATE button and VOILA. You're now the party master. 
 
-* Database initialization
+Bring on the doggos.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# dogparty
+It's not such a ruff lyfe after all. 
